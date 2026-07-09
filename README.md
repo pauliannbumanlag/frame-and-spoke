@@ -2,9 +2,10 @@
 
 A responsive landing page for a fictional independent bicycle repair and custom-build shop. Built with vanilla HTML, CSS, and JavaScript — no framework, no build step.
 
-**[Live demo →](#)** *(add your deployed link here once hosted)*
+**[Live demo →](https://pauliannbumanlag.github.io/frame-and-spoke/)**
 
-![Frame & Spoke screenshot](#) *(add a screenshot or GIF here)*
+![Ticket Desk screenshot](https://github.com/user-attachments/assets/7ba147f3-abc7-4e64-b3b1-45c964253b84)
+
 
 ## Why this project
 
